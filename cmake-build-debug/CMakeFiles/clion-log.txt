@@ -1,8 +1,5 @@
 "C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja C:\Users\alexb\Documents\Github\progra-2-Lab2
-CMake Error at CMakeLists.txt:10 (add_subdirectory):
-  add_subdirectory given source "lib/googletest" which is not an existing
-  directory.
-
-
--- Configuring incomplete, errors occurred!
-See also "C:/Users/alexb/Documents/Github/progra-2-Lab2/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+-- Could NOT find Python (missing: Python_EXECUTABLE Interpreter) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/alexb/Documents/Github/progra-2-Lab2/cmake-build-debug
